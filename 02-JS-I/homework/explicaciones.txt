@@ -1,0 +1,7 @@
+Las variables son los comandos que se le da a un programa para que realice determinada funcion. Pueden ser funciones matematicas, o de texto
+los Strings son los comandos en forma de caracteres que no sean numeros
+las funciones sirven para realizar varias acciones que se repiten indefinidamente escribiendolas solo de una vez. 
+las funciones tienen argumentos, es decir, las variables que deberan ser tenidas en cuenta al momento de realizar la accion.
+Para que esa accion se vea reflejada en la consola, se utiliza return, que es lo que imprime el resultado en la consola
+Las declaraciones if, o condicionales, son condiciones que le ponemos al codigo para que muestre un resultado u otro
+Los valores booleanos son aquellos resultados que solo pueden ser ciertos (true) o falsos (false)
